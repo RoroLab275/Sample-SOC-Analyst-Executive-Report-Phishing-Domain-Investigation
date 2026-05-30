@@ -1,5 +1,9 @@
 ## Sample SOC Analyst Executive Report: Phishing Domain Investigation
 
+# Team : Analyst: Roland A. Apambilla, PhD
+Date: May 2026
+Environment: Ubuntu 24.04 Virtual Machine (VirtualBox)
+Tools Used: WHOIS, DIG, CURL, Linux Terminal
 ## Overview
 This project documents an Open-Source Intelligence (OSINT) investigation of a suspicious domain impersonating Booking.com. The investigation was conducted in a controlled cybersecurity laboratory environment using passive reconnaissance techniques to identify indicators associated with phishing infrastructure.
 
